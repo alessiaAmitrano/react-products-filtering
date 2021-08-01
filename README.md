@@ -1,3 +1,3 @@
-# react-dssyrw
+# react-products-filtering
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-dssyrw)
+A simple application in React that filters products per name and stock state
